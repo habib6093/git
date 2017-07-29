@@ -1,0 +1,15 @@
+
+Use HTTP url to push
+
+
+git clone https://github.com/habib6093/python.git
+
+copy and paste your files into cloned folder
+
+git add .
+git commit -am "commited all files"
+
+git remote add origin https://github.com/habib6093/python.git
+
+git push origin master 
+git push origin master --force   // if normal push doesn't work
