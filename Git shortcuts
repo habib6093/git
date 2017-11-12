@@ -9,7 +9,14 @@ copy and paste your files into cloned folder
 git add .
 git commit -am "commited all files"
 
-git remote add origin https://github.com/habib6093/python.git
+git remote add origin https://github.com/habib6093/python.git            // add remote to push 
 
 git push origin master 
 git push origin master --force   // if normal push doesn't work
+
+
+git remote rm origin  // origin is remote url name..
+
+
+
+
