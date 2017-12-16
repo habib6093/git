@@ -22,3 +22,5 @@ git checkout -b <branch_name>  //create new branch locally
 
 git push orgin <branch_name>  //push to branch_name.If branch_name doesn't exist it creates new branch or push to existing one
 
+git pull origin master //to update local server
+
